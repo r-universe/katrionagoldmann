@@ -1,9 +1,5 @@
 [
   {
-    "package": "glmmSeq",
-    "oncran": true
-  },
-  {
     "package": "volcano3D",
     "oncran": true
   }
